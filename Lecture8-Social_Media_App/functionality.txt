@@ -1,0 +1,9 @@
+All posts are shown from all users
+Write post is working now
+
+
+//TBD
+make the post editable
+delete the post
+adding like feature to the post
+
