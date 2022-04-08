@@ -9,18 +9,15 @@ router.get("/products/filtered/:value", isLoggedIn, async (req, res) => {
 
   if (value === "Price:Low to High") {
     const products = await Product.find({}).sort({ price: 1 });
-    console.log(products);
     res.render("products/index", { products });
   } else if (value === "Price:High to Low") {
     const products = await Product.find({}).sort({ price: -1 });
-    console.log(products);
     res.render("products/index", { products });
   } else if (value === "Ratings") {
     const products = await Product.find({}).sort({ avgRating: 1 });
-    console.log(products);
     res.render("products/index", { products });
   } else {
-    console.log("hi");
+    console.log("Incorrect Filter option");
   }
 });
 

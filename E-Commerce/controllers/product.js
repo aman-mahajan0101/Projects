@@ -141,24 +141,6 @@ const searchProduct = async (req, res) => {
   res.render("products/index", { products });
 };
 
-const filterProducts = async (req, res) => {
-  const { filter } = req.query;
-  const Filter = filter[1];
-  if (Filter === "Price:Low to High") {
-    const products = await Product.find({}).sort({ price: 1 });
-    res.render("products/index", { products });
-  } else if (Filter === "Price:High to Low") {
-    const products = await Product.find({}).sort({ price: -1 });
-    res.render("products/index", { products });
-  } else if (Filter === "Ratings") {
-    const products = await Product.find({}).sort({ avgRating: 1 });
-    res.render("products/index", { products });
-  } else {
-    const products = await Product.find({});
-    res.render("products/index", { products });
-  }
-};
-
 module.exports.product = {
   getAllProducts,
   createProductForm,
@@ -170,5 +152,4 @@ module.exports.product = {
   createReview,
   deleteReview,
   searchProduct,
-  filterProducts,
 };

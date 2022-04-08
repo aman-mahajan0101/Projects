@@ -1,16 +1,13 @@
 <div class="container" role="main">
   <div class="row">
     <div class="col-md-8 col-sm-8 col-xs-12">
-      <form action="/products/filtered" method="get">
-        <input type="submit" name="filter"value="Filter" style="border: none;height: 25px;">
-          <select name="filter" id="filter">
-            <option value="Choose">Choose</option>
-            <option value="Price:Low to High">Price:Low to High</option>
-            <option value="Price:High to Low">Price:High to Low</option>
-            <option value="Ratings">Ratings</option>
-          </select>
-        </input>
-      </form>
+      <!-- <label for="filter">Filter</label> -->
+      <select name="filter" id="filter" onchange="filter();">
+        <option value="Choose">Choose</option>
+        <option value="Price:Low to High">Price:Low to High</option>
+        <option value="Price:High to Low">Price:High to Low</option>
+        <option value="Ratings">Ratings</option>
+      </select>
     </div>
 
     <div class="col-md-4 col-sm-4 col-xs-12">
