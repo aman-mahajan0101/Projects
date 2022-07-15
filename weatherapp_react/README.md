@@ -71,4 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `Deployed at`
 
-https://app.netlify.com/sites/shiny-biscochitos-be8127/deploys
+```
+https://shiny-biscochitos-be8127.netlify.app/
+```
