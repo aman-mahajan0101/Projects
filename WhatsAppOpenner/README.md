@@ -15,5 +15,5 @@
 ```
 https://drive.google.com/file/d/1A5hvPXhT93XiyYwMgPGkEBMwiI943QOO/view?usp=sharing
 ```
-![WhatsappOpener](https://user-images.githubusercontent.com/61354949/179294713-435267ad-4fca-4549-a63c-a5ada5dc9b61.jpg)
-![WhatsappOpener2](https://user-images.githubusercontent.com/61354949/179294734-d13cbc95-d982-409a-ab06-84477b99ae59.jpg)
+![WhatsappOpener](https://user-images.githubusercontent.com/61354949/179294713-435267ad-4fca-4549-a63c-a5ada5dc9b61.jpg =100x50)
+![WhatsappOpener2](https://user-images.githubusercontent.com/61354949/179294734-d13cbc95-d982-409a-ab06-84477b99ae59.jpg =100X50)
