@@ -1,34 +1,21 @@
-# Chatting Application
+# Covid Tracker
 
-## Technologies Used
+## Technologies and Language Used
 
-1. ### Backend : NodeJS/Express/Socket
-2. ### Frontend : HTML5/ CSS3/ JS
+1. Android Studio
+2. Kotlin
 
-## Project Structure
+## About the App
 
-```
-├── public                  # Frontend
-│   ├── chat.html           # The chat structure
-│   ├── index.html          # Basic page structure
-│   ├── css                 #Stylesheet
-│   │   └── style.css
-│   └── js                  # Vanilla javascript
-│       └── main.js
-├── server.js               # Backend Server
-└── utils
-    ├── messages.js
-    └── users.js
-```
+1. User can see the number of covid cases in each state of India
 
-## Business Logic
-
-1. Create a user and choose the room in which user wants to chat
-2. It shows all the available online users in the current room
-3. Displays messages whenever someone joins or disconnects from room server
-
-## Deployed at
+## APK
 
 ```
-https://fatidique-madame-23254.herokuapp.com/
+https://drive.google.com/file/d/1fmSfs5mwRAYu--n3m5uV9jfkytK_lIFO/view?usp=sharing
 ```
+
+<br>
+<p align="center">
+  <img src="./CovidTracker.jpg" width="200" title="Covid Tracker">
+</p>
