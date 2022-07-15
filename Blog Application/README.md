@@ -1,4 +1,4 @@
-# E-Commerce website
+# Blogging Application
 
 ## Technologies Used
 
