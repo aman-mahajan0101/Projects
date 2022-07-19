@@ -1,34 +1,26 @@
-# Chatting Application
+# Todo Application
 
-## Technologies Used
+## Technologies & Language Used
 
-1. ### Backend : NodeJS/Express/Socket
-2. ### Frontend : HTML5/ CSS3/ JS
+1. Android Studio
+2. Kotlin
+3. Room Daabase
 
-## Project Structure
+## About the App
 
-```
-├── public                  # Frontend
-│   ├── chat.html           # The chat structure
-│   ├── index.html          # Basic page structure
-│   ├── css                 #Stylesheet
-│   │   └── style.css
-│   └── js                  # Vanilla javascript
-│       └── main.js
-├── server.js               # Backend Server
-└── utils
-    ├── messages.js
-    └── users.js
-```
+1. User can store different types of todo items in it.
+2. Various options like shopping, banking etc are provided.
+3. Time and date can also se set with this.
 
-## Business Logic
-
-1. Create a user and choose the room in which user wants to chat
-2. It shows all the available online users in the current room
-3. Displays messages whenever someone joins or disconnects from room server
-
-## Deployed at
+## APK
 
 ```
-https://fatidique-madame-23254.herokuapp.com/
+https://drive.google.com/file/d/1vPgPiIDTs2u8zLoVtpBfyT4oy4sHUkQa/view?usp=sharing
 ```
+
+<br>
+<p align="center">
+  <img src="https://github.com/aman-mahajan0101/Projects/blob/main/TodoApp/Screenshots/Empty%20Todo.png" width="200" style="margin:10px">
+  <img src="https://github.com/aman-mahajan0101/Projects/blob/main/TodoApp/Screenshots/New%20Task.png" width="200" style="margin:10px">
+  <img src="https://github.com/aman-mahajan0101/Projects/blob/main/TodoApp/Screenshots/All%20Tasks.png" width="200" style="margin:10px">
+</p>
