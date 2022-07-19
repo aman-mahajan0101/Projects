@@ -18,6 +18,6 @@ https://drive.google.com/file/d/1A5hvPXhT93XiyYwMgPGkEBMwiI943QOO/view?usp=shari
 
 <br>
 <p align="center">
-  <img src="./WhatsappOpener.jpg" width="200" title="hover text" style="margin:10px">
-  <img src="./WhatsappOpener2.jpg" width="200" alt="accessibility text"style="margin:10px">
+  <img src="https://github.com/aman-mahajan0101/Projects/blob/main/WhatsAppOpenner/Screenshots/WhatsappOpener.jpg" width="200" style="margin:10px">
+  <img src="https://github.com/aman-mahajan0101/Projects/blob/main/WhatsAppOpenner/Screenshots/WhatsappOpener2.jpg" width="200" style="margin:10px">
 </p>
