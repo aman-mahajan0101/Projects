@@ -30,5 +30,5 @@
 ## Deployed at
 
 ```
-https://fatidique-madame-23254.herokuapp.com/
+https://chatapp-vercel.vercel.app/
 ```
