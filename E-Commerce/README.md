@@ -93,5 +93,5 @@ E-Commerce
 ## Deployed at
 
 ```
-http://pacific-stream-23313.herokuapp.com/
+https://ecommerce-mu-five.vercel.app
 ```
